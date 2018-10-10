@@ -1,0 +1,22 @@
+.rightimage{
+  float:right;
+
+}
+
+.columns{
+  width: 18%;
+  float: left;
+}
+
+.left{
+    float: left;
+
+  }
+
+  .title{
+    font-size: 10px;
+  }
+
+.stats{
+  font-size: 10px;
+}
