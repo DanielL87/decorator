@@ -3,7 +3,10 @@
 
 }
 
-.columns{
+.columns1{
+  border: 2px solid blue;
+  background-color: black;
+  color: white;
   width: 18%;
   float: left;
 }
@@ -19,4 +22,20 @@
 
 .stats{
   font-size: 10px;
+}
+
+.columns2{
+  border: 2px solid blue;
+  background-color: yellow;
+  color: black;
+  width: 18%;
+  float: left;
+}
+
+.columns3{
+  border: 2px solid blue;
+  background-color: red;
+  color: white;
+  width: 18%;
+  float: left;
 }
